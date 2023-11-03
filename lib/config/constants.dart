@@ -1,0 +1,1 @@
+const String baseUrl = "https://hiring-test.stag.tekoapis.net/api/";
